@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vadlamani Uday</h1>
-<h3 align="center">A dumb but passionate person who has an interest in Data Analysis and Java.</h3>
+<h3 align="center">BCA Graduate with a deep interest in programming and software design. I am hardworking, reliable and can pick up new techniques/ technologies very quickly.</h3>
 
-- 🌱 I’m currently learning **SQL, Java, NumPy.**
+- 🌱 I’m currently learning **JavaScript , React , Spring Framework **
 
 - 👨‍💻 All of my projects are available at [https://github.com/vadlamaniuday](https://github.com/vadlamaniuday)
 
-- 📫 How to reach me **paarthurnax.098@gmail.com**
+- 📫 How to reach me **vadlamaniuday04@gmail.com**
 
 <p align="left">
 </p>
