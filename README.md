@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vadlamani Uday</h1>
 <h3 align="center">BCA Grad with a deep interest in programming and software design. I am hardworking, reliable and can pick up new techniques/ technologies very quickly.</h3>
 
-- 🔭 I’m currently working on [fullStackOpen](https://github.com/vadlamaniuday/fullStackOpen)
-
-- 🌱 I’m currently learning **Spring Framework, Advanced JS , ReactJS**
+- 🌱 I’m currently learning **Spring Framework, Advanced JS , ReactJS and DJango Channels**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vadlamaniuday](https://github.com/vadlamaniuday)
 
