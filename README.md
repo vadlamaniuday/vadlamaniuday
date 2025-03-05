@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌱 I’m currently learning more about FastAPI, Django and Vue<br>💬 Ask me about Video Games<br>⚡ Fun fact I like to take a walk on the beach
+
 
 
 ## 🌐 Socials:
