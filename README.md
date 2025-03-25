@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer turned Research Associate who dabbles with data.<br><br>I'm currently learning Cross Platform Mobile Development (using Flutter) and Machine Learning
+I'm currently learning Cross Platform Mobile Development (using Flutter) and Machine Learning
 
 
 ## 🌐 Socials:
